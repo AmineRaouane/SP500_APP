@@ -21,4 +21,4 @@ This project focuses on visualizing companies in the S&P 500 stock data and trad
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AmineRaouane/Data_Science_Salaries_Prediction.git
+   git clone https://github.com/AmineRaouane/SP500_APP.git
